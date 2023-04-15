@@ -1,0 +1,8 @@
+.formSelect{
+  display: flex;
+}
+
+.pager{
+  display: flex;
+  justify-content: center;
+}
